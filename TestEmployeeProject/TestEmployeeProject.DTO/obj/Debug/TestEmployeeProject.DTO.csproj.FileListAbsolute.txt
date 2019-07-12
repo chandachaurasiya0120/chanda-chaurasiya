@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DTO\bin\Debug\TestEmployeeProject.DTO.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DTO\bin\Debug\TestEmployeeProject.DTO.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DTO\obj\Debug\TestEmployeeProject.DTO.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DTO\obj\Debug\TestEmployeeProject.DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DTO\obj\Debug\TestEmployeeProject.DTO.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DTO\obj\Debug\TestEmployeeProject.DTO.pdb

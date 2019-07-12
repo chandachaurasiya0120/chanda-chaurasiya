@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\bin\Debug\TestEmployeeProject.DAL.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\bin\Debug\TestEmployeeProject.DAL.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\obj\Debug\TestEmployeeProject.DAL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\obj\Debug\TestEmployeeProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\obj\Debug\TestEmployeeProject.DAL.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\obj\Debug\TestEmployeeProject.DAL.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\bin\Debug\TestEmployeeProject.DTO.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\bin\Debug\TestEmployeeProject.DTO.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.DAL\obj\Debug\TestEmployeeProject.DAL.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\bin\Debug\ArithmeticOperator.exe.config
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\bin\Debug\ArithmeticOperator.exe
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\bin\Debug\ArithmeticOperator.pdb
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\obj\Debug\ArithmeticOperator.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\obj\Debug\ArithmeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\obj\Debug\ArithmeticOperator.exe
+C:\Users\admin\Desktop\assessment\ArithmeticOperator\ArithmeticOperator\obj\Debug\ArithmeticOperator.pdb

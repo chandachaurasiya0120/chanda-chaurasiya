@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\stringOperations\stringOperations\bin\Debug\stringOperations.exe.config
+C:\Users\admin\Desktop\stringOperations\stringOperations\bin\Debug\stringOperations.exe
+C:\Users\admin\Desktop\stringOperations\stringOperations\bin\Debug\stringOperations.pdb
+C:\Users\admin\Desktop\stringOperations\stringOperations\obj\Debug\stringOperations.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\stringOperations\stringOperations\obj\Debug\stringOperations.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\stringOperations\stringOperations\obj\Debug\stringOperations.exe
+C:\Users\admin\Desktop\stringOperations\stringOperations\obj\Debug\stringOperations.pdb
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\bin\Debug\stringOperations.exe.config
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\bin\Debug\stringOperations.exe
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\bin\Debug\stringOperations.pdb
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\obj\Debug\stringOperations.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\obj\Debug\stringOperations.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\obj\Debug\stringOperations.exe
+C:\Users\admin\Desktop\assessment\stringOperations\stringOperations\obj\Debug\stringOperations.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.UTILITIES\bin\Debug\TestEmployeeProject.UTILITIES.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.UTILITIES\bin\Debug\TestEmployeeProject.UTILITIES.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.UTILITIES\obj\Debug\TestEmployeeProject.UTILITIES.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.UTILITIES\obj\Debug\TestEmployeeProject.UTILITIES.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.UTILITIES\obj\Debug\TestEmployeeProject.UTILITIES.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.UTILITIES\obj\Debug\TestEmployeeProject.UTILITIES.pdb

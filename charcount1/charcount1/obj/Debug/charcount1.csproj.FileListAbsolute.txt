@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\charcount1\charcount1\bin\Debug\charcount1.exe.config
+C:\Users\admin\Desktop\charcount1\charcount1\bin\Debug\charcount1.exe
+C:\Users\admin\Desktop\charcount1\charcount1\bin\Debug\charcount1.pdb
+C:\Users\admin\Desktop\charcount1\charcount1\obj\Debug\charcount1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\charcount1\charcount1\obj\Debug\charcount1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\charcount1\charcount1\obj\Debug\charcount1.exe
+C:\Users\admin\Desktop\charcount1\charcount1\obj\Debug\charcount1.pdb
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\obj\Debug\charcount1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\obj\Debug\charcount1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\obj\Debug\charcount1.exe
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\obj\Debug\charcount1.pdb
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\bin\Debug\charcount1.exe.config
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\bin\Debug\charcount1.exe
+C:\Users\admin\Desktop\assessment\charcount1\charcount1\bin\Debug\charcount1.pdb

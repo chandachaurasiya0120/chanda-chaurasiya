@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\charCount\charCount\bin\Debug\charCount.exe.config
+C:\Users\admin\Desktop\charCount\charCount\bin\Debug\charCount.exe
+C:\Users\admin\Desktop\charCount\charCount\bin\Debug\charCount.pdb
+C:\Users\admin\Desktop\charCount\charCount\obj\Debug\charCount.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\charCount\charCount\obj\Debug\charCount.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\charCount\charCount\obj\Debug\charCount.exe
+C:\Users\admin\Desktop\charCount\charCount\obj\Debug\charCount.pdb
+C:\Users\admin\Desktop\assessment\charCount\charCount\bin\Debug\charCount.exe.config
+C:\Users\admin\Desktop\assessment\charCount\charCount\bin\Debug\charCount.exe
+C:\Users\admin\Desktop\assessment\charCount\charCount\bin\Debug\charCount.pdb
+C:\Users\admin\Desktop\assessment\charCount\charCount\obj\Debug\charCount.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\assessment\charCount\charCount\obj\Debug\charCount.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assessment\charCount\charCount\obj\Debug\charCount.exe
+C:\Users\admin\Desktop\assessment\charCount\charCount\obj\Debug\charCount.pdb

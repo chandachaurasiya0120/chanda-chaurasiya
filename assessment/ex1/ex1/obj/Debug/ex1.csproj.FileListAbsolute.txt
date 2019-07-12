@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assessment\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\assessment\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\multiplication\multiplication\bin\Debug\multiplication.exe.config
+C:\Users\admin\Desktop\multiplication\multiplication\bin\Debug\multiplication.exe
+C:\Users\admin\Desktop\multiplication\multiplication\bin\Debug\multiplication.pdb
+C:\Users\admin\Desktop\multiplication\multiplication\obj\Debug\multiplication.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\multiplication\multiplication\obj\Debug\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\multiplication\multiplication\obj\Debug\multiplication.exe
+C:\Users\admin\Desktop\multiplication\multiplication\obj\Debug\multiplication.pdb
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\bin\Debug\multiplication.exe.config
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\bin\Debug\multiplication.exe
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\bin\Debug\multiplication.pdb
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\obj\Debug\multiplication.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\obj\Debug\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\obj\Debug\multiplication.exe
+C:\Users\admin\Desktop\assessment\multiplication\multiplication\obj\Debug\multiplication.pdb

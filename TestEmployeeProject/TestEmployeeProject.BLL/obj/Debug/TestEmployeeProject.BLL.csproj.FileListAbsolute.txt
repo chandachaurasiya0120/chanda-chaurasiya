@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\bin\Debug\TestEmployeeProject.BLL.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\bin\Debug\TestEmployeeProject.BLL.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\bin\Debug\TestEmployeeProject.DAL.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\bin\Debug\TestEmployeeProject.DAL.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\obj\Debug\TestEmployeeProject.BLL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\obj\Debug\TestEmployeeProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\obj\Debug\TestEmployeeProject.BLL.csproj.CopyComplete
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\obj\Debug\TestEmployeeProject.BLL.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\obj\Debug\TestEmployeeProject.BLL.pdb
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\bin\Debug\TestEmployeeProject.DTO.dll
+C:\Users\admin\Desktop\TestEmployeeProject\TestEmployeeProject.BLL\bin\Debug\TestEmployeeProject.DTO.pdb
